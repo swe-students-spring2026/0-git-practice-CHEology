@@ -1,7 +1,9 @@
 # Git Practice
 
-[Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
-- by Dan McKinley
+
+### Article
+
+[Choose Boring Technology](https://mcfunley.com/choose-boring-technology) - by Dan McKinley
 
 ### My Comment
 
@@ -9,4 +11,5 @@ I found this article interesting because it reminds me of the difference between
 
 Inevitably, developing software becomes a modular, predictable, and 'boring' business. However, there is always a positive side to this, as Dan wrote in the last part: "Mindful choice of technology gives engineering minds real freedom: the freedom to contemplate bigger questions. Technology for its own sake is snake oil."
 
-Commet from Adam Shin: Great article! Went more into depth than class, and clarified a lot of stuff I was confused about.
+### Comment from Adam Shin
+ Great article! Went more into depth than class, and clarified a lot of stuff I was confused about.
